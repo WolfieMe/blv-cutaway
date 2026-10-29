@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -423,6 +423,22 @@
     [
       "80a23bfb-aae0-4207-bdfe-0eafbda2f7c7",
       "Root"
+    ],
+    [
+      "16797b62-d298-40d8-bf85-a11ed0573260",
+      "MCU"
+    ],
+    [
+      "6a042830-9886-4341-ac7e-ae3cf408b455",
+      "Power"
+    ],
+    [
+      "bb2ff94e-7d52-4611-bdae-160c29ec6d3d",
+      "RF"
+    ],
+    [
+      "32a6ffe4-fc14-461f-a9b5-9705ecbe0aac",
+      "Sensors"
     ]
   ],
   "text_variables": {},

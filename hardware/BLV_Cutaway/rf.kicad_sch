@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a71ea513-75fc-472a-87e9-92420526ae0b")
+	(paper "A4")
+	(title_block
+		(date "2026-10-29")
+		(company "Bronco S.T.A.R.")
+	)
+	(lib_symbols)
+)
